@@ -1,0 +1,6 @@
+model_checkpoint_path: "densenet_300.ckpt"
+all_model_checkpoint_paths: "densenet_296.ckpt"
+all_model_checkpoint_paths: "densenet_297.ckpt"
+all_model_checkpoint_paths: "densenet_298.ckpt"
+all_model_checkpoint_paths: "densenet_299.ckpt"
+all_model_checkpoint_paths: "densenet_300.ckpt"
